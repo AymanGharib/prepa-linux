@@ -322,5 +322,3 @@ Sure! Here are the detailed answers and explanations for all the QCM questions a
   ```
 
 ---
-
-If you'd like, I can also prepare practical labs, config examples, or flashcards based on these!
